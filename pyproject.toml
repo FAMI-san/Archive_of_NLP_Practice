@@ -1,0 +1,16 @@
+[project]
+name = "archive-of-nlp-practice"
+version = "0.1.0"
+description = "Archive of NLP Practice (言語処理100本ノック 2025)"
+requires-python = ">=3.13"
+dependencies = [
+    "confection>=0.1.5",
+    "ginza>=5.2.0",
+    "ja-ginza>=5.2.0",
+    "mecab-python3>=1.0.12",
+    "spacy>=3.7.5",
+    "spacy-legacy>=3.0.12",
+    "spacy-loggers>=1.0.5",
+    "thinc>=8.2.5",
+    "unidic-lite>=1.0.8",
+]
